@@ -4,7 +4,7 @@ server:
       port: 8088
   adminConnectors:
     - type: http
-      port: 8089
+      port: 9889
 mongoDBConnection:
   credentials:
     username: "danielsan"
